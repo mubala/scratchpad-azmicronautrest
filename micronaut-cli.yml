@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: io.github.mubala.scratchpad.azurerest
+---
+testFramework: spock
+sourceLanguage: java
